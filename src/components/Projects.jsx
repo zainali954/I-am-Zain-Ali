@@ -4,6 +4,24 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
+    title: "LinkVault",
+    description:
+      "LinkVault is a personal link management app that lets users save, categorize, and tag links with a secure login system. It includes features like smart search, favorites, filtering, and a full dashboard with category, tag, and task organization.",
+    techStack: ["React", "Node.js", "MongoDB", "Express"],
+    imageUrl: "https://res.cloudinary.com/dyt6y8t5r/image/upload/v1748774960/linkvault_qfn445.png",
+    githubLink: "https://github.com/zainali954/Linkvault",
+    liveDemoLink: "https://linkvault-six.vercel.app/",
+  },
+  {
+    title: "ZephyrLint",
+    description:
+      "ZephyrLint delivers secure, AI-powered code reviews through a web dashboard, utilizing the Gemini model for analysis across most programming languages. Benefit from diverse review options (deep, rewrite, performance), history preservation, and full control to copy, download, or share your results.",
+    techStack: ["React", "Node.js", "MongoDB", "Express", "Echart.js"],
+    imageUrl: "https://res.cloudinary.com/dyt6y8t5r/image/upload/v1748774960/zephyrlint_fihyiy.png",
+    githubLink: "https://github.com/zainali954/ZephyrLint",
+    liveDemoLink: "https://zephyrlint.vercel.app/",
+  },
+  {
     title: "Tickure",
     description:
       "Tickure is a personal task management web app featuring user authentication, category and label-based organization, advanced filtering and sorting, and a detailed analytics dashboard. It includes a full CRUD system with a responsive UI and supports calendar view and subtask tracking.",
