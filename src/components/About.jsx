@@ -44,7 +44,7 @@ function About() {
 
       <motion.a
         variants={fadeUp}
-        href="https://drive.google.com/file/d/1XMS7GXx-FljlbCnH8Zg_n85QSIRgASQP/view?usp=sharing"
+        href="https://drive.google.com/file/d/1L3tk7y3qkmLIU-lEi-5vN3s7lsBYBF11/view"
         download
         className="mt-10 inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold rounded-xl bg-[#EDB359] hover:bg-[#e1bb80] text-black  transition-shadow shadow-lg hover:shadow-xl"
       >
